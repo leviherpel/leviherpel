@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leviherpel
 - 👀 I’m interested in ... Software development, house music, and food 🎧🤠
-- 🌱 I’m currently learning ... Mobile development
+- 🌱 I’m currently learning ... Machine learning
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... levi.herpel@gmail.com
 
